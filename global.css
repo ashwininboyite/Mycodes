@@ -1,0 +1,22 @@
+#login img{
+  margin: 10px 0;
+  
+}
+#login .center {
+  text-align: left;
+}
+
+#login .login {
+  max-width: 350px;
+	margin: 75px auto;
+	margin-right:-94px;
+	height:510px;
+	
+}
+
+#login .login-form{
+  padding:0px 25px;
+}
+#div {
+	max-heigth:101px;
+}
