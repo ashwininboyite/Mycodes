@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <webapp> 
+ <servlet> 
+ <servlet-name>Vendor</servlet-name> 
+ <servlet-class>NewVendor</servlet-class> 
+ </servlet> 
+ <servlet-mapping> 
+ <servlet-name>Vendor</servlet-name> 
+ <url-pattern>newVendor</url-pattern> 
+ </servlet-mapping> </webapp> 
+ 
